@@ -1,11 +1,11 @@
 {
-  "name": "RMS1t/collect",
+  "name": "rms1t/collect",
   "description": "Module for working with arrays ",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "RMS1t",
+      "name": "rms1t",
       "email": "marstwk@gmail.com"
     }
   ],
